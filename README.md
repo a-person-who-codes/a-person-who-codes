@@ -1,12 +1,5 @@
 ## _I'm Joshua Riley_
 
-> I enjoy making cool things
-> Desipite not knowing anything about code
-> I graduated with my BSc in Computer Science
-> from Dominican University of California and 
-> work as a systems analyst at Enterprise Products.
-> The midstream oil and gas company, not the rental car place.
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
