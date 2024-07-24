@@ -1,15 +1,11 @@
-# hi there 👋🏽
-## _I'm Josh, Joshua Riley_
+## _I'm Joshua Riley_
 
-> I enjoy writing making cool things
-> as I have learned a lot from amazing
-> teachers and students at Dominican
-> University of Califonia. That is where
-> I received my BSc in Computer Science.
+> I enjoy making cool things
 > Desipite not knowing anything about code
-> I graduated in two years and now work
-> as a business systems analyst at Enterprise.
-> The oil and gas company, not the rental car place.
+> I graduated with my BSc in Computer Science
+> from Dominican University of California and 
+> work as a systems analyst at Enterprise Products.
+> The midstream oil and gas company, not the rental car place.
 
 ### Languages
 
