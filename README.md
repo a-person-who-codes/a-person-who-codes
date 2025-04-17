@@ -1,7 +1,7 @@
 # 🏃‍♂️💨 Joshua Riley
 <code>Digital Curator (Developer/Photographer)</code>
 
-I pride myself on being a fullstack developer and enjoy capturing and sharing things that exsist outside the digital realm. My coding projects are user focused, built from the ground up, starting with planning and design and extending to solving real-world problems with code.
+I pride myself on being a fullstack developer and enjoy capturing and sharing things that exsist outside the digital realm. My coding projects are user focused, built from the ground up, starting with planning and design and often results in formining crative solutions often aiding me in solving real-world problems.
 
 ---
 
